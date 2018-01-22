@@ -1,9 +1,6 @@
 # **Traffic Sign Recognition** 
 
 ## Writeup
-
-### You can use this file as a template for your writeup if you want to submit it as a markdown file, but feel free to use some other method and submit a pdf if you prefer.
-
 ---
 
 **Build a Traffic Sign Recognition Project**
@@ -118,7 +115,7 @@ My final model results were:
 
 Here are five German traffic signs that I found on the web:
 
-![alt text][image4| width=128]
+![alt text][image4]
 ![alt text][image5| width=128]
 ![alt text][image6| width=128] 
 ![alt text][image7| width=128] 
