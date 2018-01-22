@@ -118,8 +118,11 @@ My final model results were:
 
 Here are five German traffic signs that I found on the web:
 
-![alt text][image4] ![alt text][image5] ![alt text][image6] 
-![alt text][image7] ![alt text][image8]
+![alt text][image4| width=128]
+![alt text][image5| width=128]
+![alt text][image6| width=128] 
+![alt text][image7| width=128] 
+![alt text][image8| width=128]
 
 The first image might be difficult to classify because ...
 
